@@ -21,7 +21,7 @@ There are some example in this folder.
     ![image](https://cloud.githubusercontent.com/assets/2737108/14706283/fdbc22bc-07bd-11e6-978a-24fd14030fd2.png)
 
 - [bot_with_context](https://github.com/luckydonald/pytg/blob/master/examples/bot_with_context.py): Talk to a bot, not only a simple command.
-    - Demonstrates how to build converations with the use of generators and the `yield` statement.    
+    - Demonstrates how to build conversations with the use of generators and the `yield` statement.    
     ![image](https://cloud.githubusercontent.com/assets/2737108/14706247/d57dcc56-07bd-11e6-870c-f07f770e2fda.png)
 
 
